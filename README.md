@@ -1,2 +1,2 @@
-# Designer-PluginsManager
-This is the repository for Designer Plugin Manager on the app.
+# Designer Fonts Manager
+This is the repository for Designer Plugin Manager for fonts on the app.
